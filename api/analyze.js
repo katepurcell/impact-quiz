@@ -91,10 +91,10 @@ If they have an interesting pattern or combination (e.g. strong data but weak st
 ## Action Plan
 
 ### Start Here
-2-3 highest impact, lowest effort things to do first
+2-3 highest impact, lowest effort things to do first. **Bold the main point** of each suggestion, then explain in 1-2 sentences.
 
 ### Build On It
-2-3 next priority items once they've tackled the above
+2-3 next priority items once they've tackled the above. **Bold the main point** of each suggestion, then explain in 1-2 sentences.
 
 Keep the total response under 700 words. Be specific, warm, and actionable. No bullet point lists of generic tips - give them real, concrete suggestions tied to their actual scores.`;
 
